@@ -7,4 +7,6 @@
  4. git commit -m "filename"  - for commiting the file in the repository
  5.  git config --global user.email "you@example.com"   -- for setting the account of the user 
  6.  git config --global user.name "Your Name"
+7. git log - for tracking the changes in the code
+ 8. git push -u origin master - for push code in the git hub
 
