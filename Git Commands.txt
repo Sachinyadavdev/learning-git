@@ -3,3 +3,8 @@
 
  1. git status - for checking the status of the repository
  2. git init - for initializing the git repository 
+ 3. git add . - to add all the files .
+ 4. git commit -m "filename"  - for commiting the file in the repository
+ 5.  git config --global user.email "you@example.com"   -- for setting the account of the user 
+ 6.  git config --global user.name "Your Name"
+
