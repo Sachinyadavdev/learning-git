@@ -1,0 +1,5 @@
+
+* Git commands :
+
+ 1. git status - for checking the status of the repository
+ 2. git init - for initializing the git repository 
