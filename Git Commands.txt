@@ -4,9 +4,19 @@
  1. git status - for checking the status of the repository
  2. git init - for initializing the git repository 
  3. git add . - to add all the files .
- 4. git commit -m "filename"  - for commiting the file in the repository
+ 4. git commit -m "comment "  - for commiting the file in the repository
  5.  git config --global user.email "you@example.com"   -- for setting the account of the user 
  6.  git config --global user.name "Your Name"
 7. git log - for tracking the changes in the code
  8. git push -u origin master - for push code in the git hub
+9. git pull origin < branch name-master> - for pulling code from the github website
+10. touch .gitignore to create a git ignore file
+11. git remote add origin <link> to add the repository from github to computer
+12. git branch to check the branches in the repository 
+13. git branch <system name>  to add new module to your code as a separate.
+14. git checkout <branch name > for switching the branch 
+
+See git branches more from git blog or from blog posts
+
+ssh-keygen -t ed25519 -C "sachinyadavshiv8@gmail.com"
 
